@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ropstenUnbox/static/css/main.76718612.chunk.css",
+    "main.js": "/ropstenUnbox/static/js/main.3bdf3bbe.chunk.js",
+    "main.js.map": "/ropstenUnbox/static/js/main.3bdf3bbe.chunk.js.map",
+    "runtime-main.js": "/ropstenUnbox/static/js/runtime-main.194786c5.js",
+    "runtime-main.js.map": "/ropstenUnbox/static/js/runtime-main.194786c5.js.map",
+    "static/js/2.60f2b4e1.chunk.js": "/ropstenUnbox/static/js/2.60f2b4e1.chunk.js",
+    "static/js/2.60f2b4e1.chunk.js.map": "/ropstenUnbox/static/js/2.60f2b4e1.chunk.js.map",
+    "index.html": "/ropstenUnbox/index.html",
+    "static/css/main.76718612.chunk.css.map": "/ropstenUnbox/static/css/main.76718612.chunk.css.map",
+    "static/js/2.60f2b4e1.chunk.js.LICENSE.txt": "/ropstenUnbox/static/js/2.60f2b4e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.194786c5.js",
+    "static/js/2.60f2b4e1.chunk.js",
+    "static/css/main.76718612.chunk.css",
+    "static/js/main.3bdf3bbe.chunk.js"
+  ]
+}
