@@ -3,7 +3,7 @@ const HDWalletProvider = require('@truffle/hdwallet-provider');
 require('dotenv').config();
 
 module.exports = {
-  contracts_build_directory: path.join(__dirname, "client/src/contracts"),
+  contracts_build_directory: path.join(__dirname, "../client/src/contracts"),
   networks: { 
    development: {
     host: "127.0.0.1",     // Localhost (default: none)
